@@ -42,7 +42,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 ## Pre-training
 
-### Forward-backward Representation Learning
+### Forward-Backward Representation Learning
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:-----------:	|:---------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
@@ -53,7 +53,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 |  2021 	| **NeurIPS** 	|                      Learning One Representation to Optimize All Rewards |  [Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/003dd617c12d444ff9c80f717c3fa982-Paper.pdf)                 	| [Code](https://github.com/ahmed-touati/controllable_agent) 	|
 |2021|  **arXiv** |Learning Successor States and Goal-Dependent Values: A Mathematical Viewpoint|                 [Paper](https://arxiv.org/pdf/2101.07123)                 	| N/A 	|
 
-### Goal-conditioned Learning
+### Goal-Conditioned Learning
 
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
@@ -79,7 +79,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 |  2022 	|        **TOG**       	|  ASE: Large-scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters  	|                 [Paper](https://arxiv.org/abs/2205.01906)                 	| [Code](https://github.com/nv-tlabs/ASE) 	|
 
 
-### Intrinsic Reward-driven Learning
+### Intrinsic Reward-Driven Learning
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:--------:	|:-------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
@@ -95,6 +95,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:---------:	|:-----------------------------------------------------------------------:	|:---------:	|:--------:	|
+|  2026 	| **arXiv** 	| Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking 	| [Paper](https://arxiv.org/abs/2605.23733) 	| N/A	|
 |  2025 	| **arXiv** 	| Task Tokens: A Flexible Approach to Adapting Behavior Foundation Models 	| [Paper](https://arxiv.org/abs/2503.22886) 	| N/A	|
 |  2025 	| **arXiv** 	| Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics 	| [Paper](https://arxiv.org/abs/2505.13150) 	| N/A	|
 |  2025 	|  **CoRL** 	|            Fast Adaptation With Behavioral Foundation Models            	| [Paper](https://arxiv.org/abs/2504.07896) 	| N/A 	|
