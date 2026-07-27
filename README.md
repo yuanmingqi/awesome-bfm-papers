@@ -58,6 +58,7 @@ An overview of the pre-training pipelines and adaptation strategies for BFMs dis
 
 | 📅Year 	|   🗃️Archive  	|                                          🔤Title                                         	|                   📜Paper                  	|🖥️Code  	|
 |:-----:	|:--------------------:	|:--------------------------------------------------------------------------------------------:	|:-----------------------------------------:	|:--------:	|
+|  2026 	|       **arXiv**      	|                      Scaling Behavior Foundation Model for Humanoid Robots                      	| [Paper](https://arxiv.org/pdf/2607.15163) 	| [Code]([https://nvlabs.github.io/SONIC/](https://scalebfm.github.io/)) 	|
 |  2025 	|       **arXiv**      	|                      Sonic: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control                      	| [Paper](https://arxiv.org/abs/2511.07820) 	| [Code](https://nvlabs.github.io/SONIC/) 	|
 |  2025 	|       **arXiv**      	|                      Track Any Motions under Any Disturbances                      	| [Paper](https://arxiv.org/abs/2509.13833) 	| [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) 	|
 |  2025 	|       **arXiv**      	|                      Agility Meets Stability: Versatile Humanoid Control with Heterogeneous Data                      	| [Paper](https://arxiv.org/abs/2511.17373) 	| [Code](https://github.com/OpenDriveLab/AMS) 	|
